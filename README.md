@@ -54,7 +54,3 @@ api.url=https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash
 https://youtu.be/pUgRA-7Ugt4
 
 
----
-
-Autor: [Seu Nome]
-RA: [Seu RA]
