@@ -54,6 +54,6 @@ api.url=https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash
 6. Uma janela de terminal irá abrir. Digite as opções conforme o menu (exemplo: digite 2 para adicionar ingredientes, depois digite 4 para gerar a receita).
 
 ## O vídeo de funcionamento está no link abaixo:
-https://youtu.be/pUgRA-7Ugt4?si=EXZXAlnc1YpPNrl_
+https://youtu.be/pUgRA-7Ugt4?si=ohPnH3tB00HqoCvt
 
 
