@@ -26,6 +26,9 @@ O projeto aplica os 4 pilares da Orientação a Objetos:
 
 ## PASSO A PASSO: Como Configurar (Importante)
 
+1. Baixe a pasta zipada e extraia os arquivos.
+2. Entre no BlueJ e abra o que foi extraído.
+
 Para o projeto funcionar, você precisa configurar sua chave de segurança. Siga estes passos exatos:
 
 1. Na pasta principal do projeto (onde ficam os arquivos .java), crie um novo arquivo de texto.
